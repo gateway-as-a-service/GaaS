@@ -21,7 +21,7 @@ pymongo==3.7.2
 pypiwin32==223
 python3-ngrok==0.2
 pytz==2018.9
-pywin32==224
+pywin32==301
 redis==3.2.1
 requests==2.21.0
 schema==0.6.7
